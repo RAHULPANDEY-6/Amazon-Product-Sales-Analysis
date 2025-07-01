@@ -1,6 +1,5 @@
 # Amazon-Product-Sales-Analysis 
 
-📊 Amazon Product Sales Analysis – Power BI Dashboard
 This Power BI project delivers a data-driven dashboard to analyze Amazon product sales and customer engagement. It focuses on core KPIs and visual trends to support business decision-making. 
 
 🎯 KPIs Covered:
